@@ -17,7 +17,7 @@ Backtesting is an excellent way to tell if your trading system is sound or not.
 Do not waste your hard-earned money in live trading for untested trading systems.  
 We provide some historical stock and ETF data for you to do backtesting free:    
 https://www.cybercon.com/historical-stock-and-etf-data/  
-If you are team member, you can request more historical data for trading algorithm testing.
+If you are a team member, you can request more historical data for trading algorithm testing.
 
 For active contributors to our Github site or various team projects, we will offer free Jupyter Notebook access to more up to date stocks, options, futures, and crypto data:  
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data/
