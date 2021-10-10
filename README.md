@@ -18,3 +18,6 @@ Do not waste your hard-earned money in live trading for untested trading systems
 We provide some historical stock and ETF data for you to do backtesting free:    
 https://www.cybercon.com/historical-stock-and-etf-data/  
 If you are team member, you can request more historical data for trading algorithm testing.
+
+For major contributors to our Github site or various team projects, we will offer free Jupyter Notebook access to more uptodate stockStocks, Options, Futures, and Crypto data:  
+https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data/
