@@ -12,3 +12,9 @@ We use robots to do a variety of things:
 https://github.com/Megapro-com/Broker-APIs  
 * Sending trade alerts so we can review and placing manual orders;  
 https://github.com/Megapro-com/Discord-Bots
+
+Backtesting is an excellent way to tell if your trading system is sound or not.  
+Do not waste your hard-earned money in live trading for untested trading systems.  
+We provide some historical stock and ETF data for you to do backtesting free:    
+https://www.cybercon.com/historical-stock-and-etf-data/  
+If you are team member, you can request more historical data for trading algorithm testing.
