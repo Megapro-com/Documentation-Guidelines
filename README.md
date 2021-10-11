@@ -20,4 +20,4 @@ https://www.cybercon.com/historical-stock-and-etf-data/
 If you are a team member, you can request more historical data for trading algorithm testing.
 
 For active contributors to our Github site or various team projects, we will offer free Jupyter Notebook access to more up to date stocks, options, futures, and crypto data:  
-[go](https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data){:target="_blank" rel="noopener"}
+https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
