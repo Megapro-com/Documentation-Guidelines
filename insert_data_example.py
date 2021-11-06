@@ -1,10 +1,9 @@
-
-from DevDB import main as create_client
+from MongoDB.client import DevDB
 from datetime import datetime
 from pymongo.errors import BulkWriteError, DuplicateKeyError
 
 # create a client to read from and write into DevDB
-client = create_client()
+client = DevDB
 
 # find from collection 'test_collection'
 data_list = list(client.find('test_collection'))
@@ -24,8 +23,9 @@ insertion_list = [{'name': 'apple', 'count': 8},
 result = client.insert_many('new_test_collection', insertion_list)
 print('Inserted IDs', result.inserted_ids)
 
-# create a descending index for column 'count' in new_test_collection
-client.create_index('new_test_collection', [('count', -1)])
+# create a decending index for column 'count' in new_test_collection
+print(client.create_index('new_test_collection', [('count', -1)]))
 
 # drop collection 'new_test_collection'
 client.drop('new_test_collection')
+
