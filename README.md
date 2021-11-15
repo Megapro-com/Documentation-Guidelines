@@ -21,8 +21,8 @@ Knowing the drivers behind the market and stock movement is the key to successfu
 
 We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
 
-For casual or biginning developers, you can use sample programs shared in this site and sample finantial data at:  
-https://www.cybercon.com/historical-stock-and-etf-data/    
+For casual or beginning developers, you can use sample programs shared on this site and sample financial data at:
+https://www.cybercon.com/historical-stock-and-etf-data/
 to test your ideas and learn how to build quantitative trading systems.
 
 For serious and enthiatics quant trading developers, you can apply to join our MagaGurus team at:  
