@@ -30,7 +30,7 @@ https://www.megapro.com/megagurus-application/
 If you qualify, we will provide you access to our Jupyter Notebook so you can write Python or R programs to interact with our big data database directly. 
 
 Here is a list of level 1 data that you can use to build TA based trading systems:    
-https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
+https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data   
 Here is a list of MA data you can use to build your quant trading systems:  
 https://www.cybercon.com/stock-etf-money-flow-data/
 
