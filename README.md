@@ -17,7 +17,7 @@ PA = Political/Policy Analysis;
 FA = Fundamental Analysis;  
 SA = Sentiment Analysis;
 
-We pioneered the 6A investment system. Knowing the drivers behind the market and stock movement is the key to successful investment. We analyze the financial market and stocks from six diversified areas, create a 6D view of the market and stocks. We collect, process, and use the 6A data to generate trading picks and trading signals.
+Knowing the drivers behind the market and stock movement is the key to successful investment. We pioneered the 6A investment system. We analyze the financial market and stocks from six diversified areas, create a 6D view of the market and stocks. We collect, process, and use the 6A data to generate trading picks and trading signals.
 
 We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
 
