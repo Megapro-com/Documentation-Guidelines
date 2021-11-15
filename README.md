@@ -31,6 +31,8 @@ If you qualify, we will provide you access to our Jupyter Notebook so you can wr
 
 Here is a list of level 1 data that you can use to build TA based trading systems:    
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
-
 Here is a list of MA data you can use to build your quant trading systems:  
 https://www.cybercon.com/stock-etf-money-flow-data/
+
+Megapro Discord server:  
+https://discord.gg/mCmMjSRuBn
