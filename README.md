@@ -29,5 +29,5 @@ to test your ideas and learn how to build quantitative trading systems.
 For serious and enthiatics quant trading developers, you can apply to join our MagaGurus team at:  
 https://www.megapro.com/megagurus-application/  
 If you qualify we will provide you access to our Juniper Notebook so you can write Python or R programs to direct interact with our big data database.
-There is a list of data you can use for your TA study:  
+Here is a list of level 1 data that you can use to build TA based trading systems:  
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
