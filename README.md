@@ -7,24 +7,27 @@ Megapro’s GitHub repos are intended for informational purposes only. It is not
 (c) You have a good understanding of the key components of financial investment.   
 (d) You are aware of risks in the financial investment and are able to bear potential losses in full. 
 
-Futures and Crypto markets are traded 24 hours a day.  
-From Nov. 2021, some index options ( SPX, NDX, RUT, VIX, ... ) will be traded 24 hours a day.  
-Some brokers will start to offer US stock trading 24 hours a day.  
-We focus on developing algorithms trading systems, so our robots will help us trade stocks, options, futures, and cryptos 24 hours a day.
+Megapro is a social algorithmic trading data platform. We enable anyone in the world to join the social algorithmic trading revolution by sharing and codeveloping profitable trading algorithms.
 
-We use robots to do a variety of things:  
-* Collecting financial data;    
-* Processing data via algorithms to generate new data;  
-* Placing live trading orders via a broker's API:  
-https://github.com/Megapro-com/Broker-APIs  
-* Sending trade alerts so we can review and placing manual orders;  
-https://github.com/Megapro-com/Discord-Bots
+Megapro 6A financial data platform:
 
-Backtesting is an excellent way to tell if your trading system is sound or not.  
-Do not waste your hard-earned money in live trading for untested trading systems.  
-We provide some historical stock and ETF data for you to do backtesting free:    
+TA = Technical Analysis;
+MA = Money Flow Analysis;
+EA = Event Analysis;
+PA = Political/Policy Analysis;
+FA = Fundamental Analysis;
+SA = Sentiment Analysis;
+
+We pioneered the 6A investment system. Knowing the drivers behind the market and stock movement is the key to successful investment. We analyze the financial market and stocks from six diversified areas, create a 6D view of the market and stocks. We collect, process, and use the 6A data to generate trading picks and trading signals.
+
+We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
+
+For casual or biginning developers, you can use sample programs shared in this site and sample finantial data at:
 https://www.cybercon.com/historical-stock-and-etf-data/  
-If you are a team member, you can request more historical data for trading algorithm testing.
+to test your ideas and learn how to build quantitative trading systems.
 
-For active contributors to our Github site or various team projects, we will offer free Jupyter Notebook access to more up to date stocks, options, futures, and crypto data:  
+For serious and enthiatics quant trading developers, you can apply to join our MagaGurus team at:
+https://www.megapro.com/megagurus-application/
+If you qualify we will provide you access to our Juniper Notebook so you can write Python or R programs to direct interact with our big data database.
+There is a list of data you can use for your TA study:
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
