@@ -11,23 +11,23 @@ Megapro is a social algorithmic trading data platform. We enable anyone in the w
 
 Megapro 6A financial data platform:
 
-TA = Technical Analysis;
-MA = Money Flow Analysis;
-EA = Event Analysis;
-PA = Political/Policy Analysis;
-FA = Fundamental Analysis;
+TA = Technical Analysis;  
+MA = Money Flow Analysis;  
+EA = Event Analysis;  
+PA = Political/Policy Analysis;  
+FA = Fundamental Analysis;  
 SA = Sentiment Analysis;
 
 We pioneered the 6A investment system. Knowing the drivers behind the market and stock movement is the key to successful investment. We analyze the financial market and stocks from six diversified areas, create a 6D view of the market and stocks. We collect, process, and use the 6A data to generate trading picks and trading signals.
 
 We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
 
-For casual or biginning developers, you can use sample programs shared in this site and sample finantial data at:
-https://www.cybercon.com/historical-stock-and-etf-data/  
+For casual or biginning developers, you can use sample programs shared in this site and sample finantial data at:  
+https://www.cybercon.com/historical-stock-and-etf-data/    
 to test your ideas and learn how to build quantitative trading systems.
 
-For serious and enthiatics quant trading developers, you can apply to join our MagaGurus team at:
-https://www.megapro.com/megagurus-application/
+For serious and enthiatics quant trading developers, you can apply to join our MagaGurus team at:  
+https://www.megapro.com/megagurus-application/  
 If you qualify we will provide you access to our Juniper Notebook so you can write Python or R programs to direct interact with our big data database.
-There is a list of data you can use for your TA study:
+There is a list of data you can use for your TA study:  
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data 
