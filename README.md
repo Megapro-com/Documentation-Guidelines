@@ -34,5 +34,8 @@ https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data
 Here is a list of MA data you can use to build your quant trading systems:  
 https://www.cybercon.com/stock-etf-money-flow-data/
 
-Megapro Discord server:  
+Join our Discord community:  
 https://discord.gg/mCmMjSRuBn
+
+Watch our YouTube videos:  
+https://www.youtube.com/channel/UCMvWrywlnD9CK7ik5hL5W8w
