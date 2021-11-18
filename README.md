@@ -38,4 +38,4 @@ Join our Discord community:
 https://discord.gg/mCmMjSRuBn
 
 Watch our YouTube videos:  
-https://www.youtube.com/channel/UCMvWrywlnD9CK7ik5hL5W8w
+https://www.youtube.com/c/MegaproCo
