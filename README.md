@@ -21,13 +21,9 @@ Knowing the drivers behind the market and stock movement is the key to successfu
 
 We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
 
-For casual or beginning developers, you can use sample programs shared on this site and sample financial data at:  
-https://www.cybercon.com/historical-stock-and-etf-data/  
-to test your ideas and learn how to build quantitative trading systems.
-
-For serious and enthusiastic quant trading developers, you can apply to join our MagaGurus team at:  
+If you are interested in data analysis and quantitative trading, you can apply to join our MagaGurus team at:
 https://www.megapro.com/megagurus-application/  
-If you qualify, we will provide you access to our Jupyter Notebook so you can write Python or R programs to interact with our big data database directly. 
+If you qualify, we will provide you free access to our Jupyter Notebook so you can write Python or R programs to interact with our big data database directly. 
 
 Here is a list of level 1 data that you can use to build TA based trading systems:    
 https://www.cybercon.com/stocks-options-futures-and-crypto-uptodate-data   
