@@ -13,7 +13,7 @@ Megapro 6A financial data platform:
 FA = Fundamental Analysis;  
 TA = Technical Analysis;  
 MA = Money Flow Analysis;  
-SA = Sentiment Analysis;
+SA = Sentiment Analysis;  
 PA = Political/Policy Analysis;  
 EA = Event Analysis;  
 
