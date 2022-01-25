@@ -10,12 +10,12 @@ Megapro is a social algorithmic trading data platform. We enable anyone in the w
 
 Megapro 6A financial data platform:
 
+FA = Fundamental Analysis;  
 TA = Technical Analysis;  
 MA = Money Flow Analysis;  
-EA = Event Analysis;  
-PA = Political/Policy Analysis;  
-FA = Fundamental Analysis;  
 SA = Sentiment Analysis;
+PA = Political/Policy Analysis;  
+EA = Event Analysis;  
 
 Knowing the drivers behind the market and stock movement is the key to successful investment. We pioneered the 6A investment system. We analyze the financial market and stocks from six diversified areas, create a 6D view of the market and stocks. We collect, process, and use the 6A data to generate trading picks and trading signals.
 
