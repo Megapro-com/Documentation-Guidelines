@@ -21,7 +21,10 @@ Knowing the drivers behind the market and stock movement is the key to successfu
 
 We have built a scalable and reliable big data database and a powerful, robust computing farm to process billions of data each month.
 
-Follow us on Twitter:
+Official website:  
+https://www.megapro.com
+
+Follow us on Twitter:  
 https://twitter.com/Megaprodata
 
 Join our Discord community:  
