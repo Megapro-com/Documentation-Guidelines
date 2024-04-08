@@ -27,8 +27,8 @@ https://www.megapro.com
 Follow us on Twitter:  
 https://twitter.com/Megaprodata
 
-Join our Discord community:  
-https://discord.gg/mCmMjSRuBn
+Connect with us on LinkedIn:
+https://www.linkedin.com/company/megapro-corporation/
 
 Subscribe to our YouTube channel:  
-https://www.youtube.com/c/MegaproCo
+https://www.youtube.com/@stockdata
